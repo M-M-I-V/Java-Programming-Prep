@@ -1,0 +1,216 @@
+﻿Easy
+
+
+1. Check for Even or Odd
+    Problem: Write a Java program that takes an integer as input and checks whether the number is even or odd.
+    Example:
+     
+     Input: 4
+     Output: Even
+     
+
+
+2. Swap Two Numbers Without Using a Third Variable
+    Problem: Write a program that swaps two numbers without using any temporary variable.
+    Example:
+     
+     Input: a = 10, b = 20
+     Output: a = 20, b = 10
+     
+
+
+3. Find the Length of a String
+    Problem: Write a Java program to find the length of a string without using the length() method.
+    Example:
+     
+     Input: "hello"
+     Output: 5
+     
+
+
+4. Count the Occurrences of a Character in a String
+    Problem: Write a Java program that counts the occurrences of a specific character in a string.
+    Example:
+     
+     Input: "programming", char = 'g'
+     Output: 2
+     
+
+
+5. Print a RightAngled Triangle Pattern
+    Problem: Write a Java program that prints a rightangled triangle using stars ().
+    Example:
+     
+     Input: 5
+     Output:
+     
+    
+Intermediate
+
+
+6. Sum of All Elements in an Array
+    Problem: Write a Java program that computes the sum of all elements in an array.
+    Example:
+     
+     Input: [1, 2, 3, 4]
+     Output: 10
+     
+
+
+7. Find the First NonRepeating Character
+    Problem: Write a Java program to find the first nonrepeating character in a string.
+    Example:
+     
+     Input: "swiss"
+     Output: 'w'
+     
+
+
+8. Check if Two Strings Are Anagrams
+    Problem: Write a Java program that checks if two given strings are anagrams (i.e., they contain the same characters in any order).
+    Example:
+     
+     Input: "listen", "silent"
+     Output: true
+     
+
+
+9. Find the Common Elements Between Two Arrays
+    Problem: Write a Java program that finds and prints the common elements between two arrays.
+    Example:
+     
+     Input: [1, 2, 3, 4], [3, 4, 5, 6]
+     Output: [3, 4]
+     
+
+
+10. Find the Missing Number in an Arithmetic Progression
+     Problem: Given an arithmetic progression with one missing number, find the missing number in the sequence.
+     Example:
+      
+      Input: [3, 5, 7, 11, 13]
+      Output: 9
+      
+
+
+11. Find the GCD of Two Numbers
+     Problem: Write a Java program to find the Greatest Common Divisor (GCD) of two numbers using Euclidean algorithm.
+     Example:
+      
+      Input: 36, 60
+      Output: 12
+      
+
+
+12. Generate All Subsets of a Set
+     Problem: Write a Java program to generate all subsets of a given set of numbers.
+     Example:
+      
+      Input: [1, 2, 3]
+      Output: [[], [1], [2], [3], [1, 2], [1, 3], [2, 3], [1, 2, 3]]
+      
+
+
+13. Sort an Array of Strings by Length
+     Problem: Write a Java program to sort an array of strings by their length.
+     Example:
+      
+      Input: ["apple", "banana", "kiwi", "grape"]
+      Output: ["kiwi", "apple", "grape", "banana"]
+      
+
+
+14. Count the Words in a String
+     Problem: Write a program to count the number of words in a given sentence.
+     Example:
+      
+      Input: "Hello World, how are you?"
+      Output: 5
+      
+
+
+
+
+Advanced
+
+
+15. Find the Longest Common Prefix
+     Problem: Write a Java program to find the longest common prefix among a list of strings.
+     Example:
+      
+      Input: ["flower", "flow", "flight"]
+      Output: "fl"
+      
+
+
+16. Implement a Stack Using Two Queues
+     Problem: Write a Java program to implement a stack using two queues.
+     Example:
+      
+      Input: Push(1), Push(2), Pop(), Push(3), Pop()
+      Output: 2, 3
+      
+
+
+17. Find All Prime Numbers Up to N
+     Problem: Write a Java program that prints all prime numbers less than or equal to n using the Sieve of Eratosthenes algorithm.
+     Example:
+      
+      Input: 20
+      Output: 2, 3, 5, 7, 11, 13, 17, 19
+      
+
+
+18. Find the Shortest Path in a Grid (BreadthFirst Search)
+     Problem: Write a Java program that finds the shortest path in a grid from the topleft to the bottomright corner, moving only down or right.
+     Example:
+      
+      Input: 3x3 grid, starting at (0,0), destination (2,2)
+      Output: 4 (the number of steps)
+      
+
+
+19. Solve the Sudoku Puzzle
+     Problem: Write a Java program to solve a Sudoku puzzle using backtracking.
+     Example:
+      
+      Input: A partially filled 9x9 Sudoku grid
+      Output: The solved Sudoku grid
+      
+
+
+20. Find the Largest Rectangle in Histogram
+     Problem: Write a Java program to find the largest rectangle that can be formed in a histogram.
+     Example:
+      
+      Input: [2, 1, 5, 6, 2, 3]
+      Output: 10 (formed by 2 and 5)
+      
+
+
+
+
+
+
+Bonus Challenges (Hard)
+
+
+21. Implement a Linked List
+     Problem: Write a Java program to implement a singly linked list with basic operations like insert, delete, search, and display.
+
+
+22. Find the Median of Two Sorted Arrays
+     Problem: Write a Java program to find the median of two sorted arrays of different sizes in O(log(min(n, m))) time complexity, where n and m are the lengths of the arrays.
+
+
+23. Maximum Subarray Sum (Kadane’s Algorithm)
+     Problem: Write a Java program to find the contiguous subarray with the maximum sum in a given integer array using Kadane's algorithm.
+     Example:
+      
+      Input: [2, 1, 3, 4, 1, 2, 1, 5, 4]
+      Output: 6 (subarray [4, 1, 2, 1])
+      
+
+
+24. Implement an LRU Cache
+     Problem: Write a Java program to implement an LRU (Least Recently Used) Cache that supports get and put operations.

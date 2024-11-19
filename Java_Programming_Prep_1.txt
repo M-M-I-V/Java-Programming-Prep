@@ -1,0 +1,217 @@
+﻿Easy
+
+
+1. Reverse a String
+    Problem: Write a Java program that takes a string as input and returns the string in reverse order.
+    Example: 
+     
+     Input: "hello"
+     Output: "olleh"
+     
+
+
+2. Find the Largest of Three Numbers
+    Problem: Write a Java program that takes three integers as input and prints the largest of the three numbers.
+    Example:
+     
+     Input: 5, 12, 8
+     Output: 12
+     
+
+
+3. Check if a Number is Prime
+    Problem: Write a Java program that checks if a number is prime.
+    Example:
+     
+     Input: 29
+     Output: true
+     
+
+
+4. Count Vowels in a String
+    Problem: Write a program to count the number of vowels in a given string.
+    Example:
+     
+     Input: "hello"
+     Output: 2
+     
+
+
+5. Fibonacci Sequence
+    Problem: Write a Java program that prints the first n Fibonacci numbers.
+    Example:
+     
+     Input: 5
+     Output: 0 1 1 2 3
+     
+
+
+
+
+
+
+ Intermediate
+
+
+6. Palindrome Check
+    Problem: Write a Java program that checks if a string is a palindrome (reads the same forward and backward).
+    Example:
+     
+     Input: "madam"
+     Output: true
+     
+
+
+7. Sum of Digits in a Number
+    Problem: Write a Java program that calculates the sum of digits of a given integer.
+    Example:
+     
+     Input: 1234
+     Output: 10
+     
+
+
+8. Find the Factorial of a Number
+    Problem: Write a Java program to calculate the factorial of a given number using recursion.
+    Example:
+     
+     Input: 5
+     Output: 120
+     
+
+
+9. Find the Second Largest Number
+    Problem: Write a Java program to find the second largest number in an array of integers.
+    Example:
+     
+     Input: [10, 15, 20, 8]
+     Output: 15
+     
+
+
+10. Matrix Multiplication
+     Problem: Write a Java program to multiply two matrices.
+     Example:
+      
+      Input: A = [[1, 2], [3, 4]], B = [[5, 6], [7, 8]]
+      Output: [[19, 22], [43, 50]]
+      
+
+
+11. Find Missing Number in an Array
+     Problem: Given an array of integers containing n1 numbers in the range 1 to n, find the missing number.
+     Example:
+      
+      Input: [1, 2, 4, 5]
+      Output: 3
+      
+
+
+12. Sum of Prime Numbers in a Range
+     Problem: Write a Java program that computes the sum of all prime numbers within a given range.
+     Example:
+      
+      Input: 10 to 20
+      Output: 60
+      
+
+
+13. Reverse an Array
+     Problem: Write a Java program that reverses an array of integers.
+     Example:
+      
+      Input: [1, 2, 3, 4]
+      Output: [4, 3, 2, 1]
+      
+
+
+14. Remove Duplicates from an Array
+     Problem: Write a Java program that removes duplicates from an array.
+     Example:
+      
+      Input: [1, 2, 3, 2, 1]
+      Output: [1, 2, 3]
+      
+
+
+
+
+
+
+ Advanced
+
+
+15. Find the Longest Substring Without Repeating Characters
+     Problem: Write a Java program that finds the length of the longest substring without repeating characters.
+     Example:
+      
+      Input: "abcabcbb"
+      Output: 3
+      
+
+
+16. Merge Sort Algorithm
+     Problem: Implement the merge sort algorithm in Java.
+     Example:
+      
+      Input: [38, 27, 43, 3, 9, 82, 10]
+      Output: [3, 9, 10, 27, 38, 43, 82]
+      
+
+
+17. Knapsack Problem (0/1 Knapsack)
+     Problem: Write a Java program to solve the 0/1 knapsack problem using dynamic programming.
+     Example:
+      
+      Input: weights = [1, 2, 3], values = [10, 20, 30], capacity = 5
+      Output: 50
+      
+
+
+18. DepthFirst Search (DFS) on a Graph
+     Problem: Write a Java program that implements the depthfirst search (DFS) algorithm on a graph represented by an adjacency list.
+     Example:
+      
+      Input: Graph: {1: [2, 3], 2: [4], 3: [4], 4: []}, Start node: 1
+      Output: 1 2 4 3
+      
+
+
+19. Find the Longest Palindromic Substring
+     Problem: Write a Java program that finds the longest palindromic substring in a given string.
+     Example:
+      
+      Input: "babad"
+      Output: "bab" (or "aba")
+      
+
+
+20. TicTacToe Game
+     Problem: Write a Java program to implement a TicTacToe game with two players. It should print the game board after each move and determine the winner.
+     Example:
+      
+      Input: Player 1 moves X, Player 2 moves O
+      Output: Game board displayed after each move with the winner announced.
+      
+
+
+
+
+Bonus Challenges (Hard)
+
+
+21. Implement Trie (Prefix Tree)
+     Problem: Write a Java program to implement a Trie (prefix tree) that supports insert, search, and startsWith operations.
+
+
+22. Solving NQueens Problem
+     Problem: Write a Java program to solve the NQueens problem using backtracking.
+     Example:
+      
+      Input: 4 (4x4 board)
+      Output: Solution represented as a 2D board with queens placed safely.
+      
+
+
+23. Dijkstra’s Algorithm
+     Problem: Write a Java program that implements Dijkstra’s shortest path algorithm for finding the shortest path in a graph.

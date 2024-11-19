@@ -1,0 +1,226 @@
+﻿Easy
+
+
+1. Sum of Even Numbers in an Array
+    Problem: Write a Java program that sums all the even numbers in a given array.
+    Example:
+     
+     Input: [1, 2, 3, 4, 5, 6]
+     Output: 12 (2 + 4 + 6)
+     
+
+
+2. Check if a String is Empty
+    Problem: Write a Java program that checks if a given string is empty or contains only spaces.
+    Example:
+     
+     Input: "hello"
+     Output: false
+     Input: "    "
+     Output: true
+     
+
+
+3. Print the Fibonacci Series Up to N
+    Problem: Write a Java program that prints the Fibonacci series up to a given number n.
+    Example:
+     
+     Input: 10
+     Output: 0 1 1 2 3 5 8
+     
+
+
+4. Find the Minimum Element in an Array
+    Problem: Write a Java program that finds the minimum element in an array.
+    Example:
+     
+     Input: [12, 5, 7, 3, 19]
+     Output: 3
+     
+
+
+5. Reverse an Integer
+    Problem: Write a Java program that reverses the digits of an integer.
+    Example:
+     
+     Input: 12345
+     Output: 54321
+     
+
+
+Intermediate
+
+
+6. Count Occurrences of a Character in a String
+    Problem: Write a Java program that counts how many times a particular character appears in a string.
+    Example:
+     
+     Input: "hello", char = 'l'
+     Output: 2
+     
+
+
+7. Check for Palindrome Number
+    Problem: Write a Java program that checks if a number is a palindrome.
+    Example:
+     
+     Input: 121
+     Output: true
+     
+
+
+8. Find the Missing Number in an Array (1 to N)
+    Problem: Given an array of numbers from 1 to N, where one number is missing, find the missing number.
+    Example:
+     
+     Input: [1, 2, 4, 5], N = 5
+     Output: 3
+     
+
+
+9. Rotate an Array by K Steps
+    Problem: Write a Java program to rotate an array to the right by k steps.
+    Example:
+     
+     Input: [1, 2, 3, 4, 5], k = 2
+     Output: [4, 5, 1, 2, 3]
+     
+
+
+10. Check if Two Strings are Anagrams
+     Problem: Write a Java program that checks if two strings are anagrams of each other.
+     Example:
+      
+      Input: "listen", "silent"
+      Output: true
+      
+
+
+11. Find the Intersection of Two Arrays
+     Problem: Write a Java program to find the intersection of two arrays (common elements).
+     Example:
+      
+      Input: [1, 2, 3, 4], [2, 4, 6, 8]
+      Output: [2, 4]
+      
+
+
+12. Remove Duplicates from Sorted Array
+     Problem: Write a Java program that removes duplicate elements from a sorted array and returns the new array.
+     Example:
+      
+      Input: [1, 1, 2, 3, 3]
+      Output: [1, 2, 3]
+      
+
+
+13. Merge Two Sorted Arrays
+     Problem: Write a Java program to merge two sorted arrays into one sorted array.
+     Example:
+      
+      Input: [1, 4, 7], [2, 5, 8]
+      Output: [1, 2, 4, 5, 7, 8]
+      
+
+
+
+
+
+
+Advanced
+
+
+14. Find the Longest Substring Without Repeating Characters
+     Problem: Write a Java program to find the length of the longest substring without repeating characters.
+     Example:
+      
+      Input: "abcabcbb"
+      Output: 3 ("abc")
+      
+
+
+15. Merge Sort Algorithm
+     Problem: Write a Java program to implement the Merge Sort algorithm.
+     Example:
+      
+      Input: [38, 27, 43, 3, 9, 82, 10]
+      Output: [3, 9, 10, 27, 38, 43, 82]
+      
+
+
+16. Find the kth Largest Element in an Array
+     Problem: Write a Java program that finds the kth largest element in an unsorted array.
+     Example:
+      
+      Input: [7, 10, 4, 3, 20, 15], k = 4
+      Output: 10
+      
+
+
+17. Dynamic Programming: Longest Common Subsequence
+     Problem: Write a Java program that finds the longest common subsequence (LCS) of two strings using dynamic programming.
+     Example:
+      
+      Input: "AGGTAB", "GXTXAYB"
+      Output: "GTAB"
+      
+
+
+18. Find the Shortest Path in a Graph (Dijkstra’s Algorithm)
+     Problem: Write a Java program to implement Dijkstra’s shortest path algorithm for a graph.
+     Example:
+      
+      Input: Graph with vertices and edge weights
+      Output: Shortest path from source to destination
+      
+
+
+19. Generate All Possible Combinations of a Set
+     Problem: Write a Java program to generate all possible combinations of elements from a given set.
+     Example:
+      
+      Input: [1, 2, 3]
+      Output: [[], [1], [2], [3], [1, 2], [1, 3], [2, 3], [1, 2, 3]]
+      
+
+
+20. Solving the NQueens Problem
+     Problem: Write a Java program that solves the NQueens problem using backtracking.
+     Example:
+      
+      Input: 4
+      Output: [ [ . . Q . ], [ Q . . . ], [ . Q . . ], [ . . . Q ] ]
+      
+
+
+Bonus Challenges (Hard)
+
+
+21. Implement a Trie (Prefix Tree)
+     Problem: Write a Java program to implement a trie (prefix tree) that supports insert, search, and startsWith operations.
+
+
+22. Find All Anagram Substrings of a String
+     Problem: Write a Java program to find all anagram substrings of a given string.
+     Example:
+      
+      Input: "cbaebabacd", p = "abc"
+      Output: [0, 6]
+      
+
+
+23. Find the Median of Two Sorted Arrays
+     Problem: Write a Java program that finds the median of two sorted arrays in O(log(min(n, m))) time complexity, where n and m are the lengths of the arrays.
+
+
+24. Top K Frequent Elements in an Array
+     Problem: Write a Java program to find the k most frequent elements in an array.
+     Example:
+      
+      Input: [1,1,1,2,2,3], k = 2
+      Output: [1, 2]
+      
+
+
+25. Kruskal’s Algorithm for Minimum Spanning Tree
+     Problem: Write a Java program to implement Kruskal’s algorithm for finding the minimum spanning tree of a graph.
